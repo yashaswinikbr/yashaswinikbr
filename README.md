@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **y.kondakindi@ufl.edu**
 
-- 📄 Know about my work & experiences [My Resume]()
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1GyytFqamvim2eyWtozRjKhS-nPSelPMO/view?usp=sharing)
 
 
 ### What are my featured projects:question::rocket:

@@ -3,6 +3,13 @@
 <!--
 **yashaswinikbr/yashaswinikbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+hello = () => ({
+name: 'Yashaswini Kondakindi ',
+website: 'https://yashaswinikbr.github.io',
+twitter: 'yashaswinikbr'
+});
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

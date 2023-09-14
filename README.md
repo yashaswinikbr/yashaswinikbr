@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uvudatha&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswini" /> </p>
 
 
-- 👨‍💻 All about me is at [My Website](https://yashaswinikbr/yashaswinikbr.github.io/)
+- 👨‍💻 All about me is at [My Website](https://yashaswinikbr.github.io/)
 
 - 💬 Ask me about ``` var topics = ["Java","System Design" , "OOPS", "Competitive Programming", "MERN", "React", "SQL", "MongoDB", "NodeJS", "C++"] ```
 

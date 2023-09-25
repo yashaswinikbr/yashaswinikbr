@@ -34,11 +34,6 @@ Here are some ideas to get you started:
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1GyytFqamvim2eyWtozRjKhS-nPSelPMO/view?usp=sharing)
 
 
-### What are my projects:question::rocket:
-<code>[]()</code>
-<code>[]()</code>
-<code>[]()</code>
-<code>[]()</code>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

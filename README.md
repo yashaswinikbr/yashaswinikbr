@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **y.kondakindi@ufl.edu**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1GyytFqamvim2eyWtozRjKhS-nPSelPMO/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume]([https://drive.google.com/file/d/1GyytFqamvim2eyWtozRjKhS-nPSelPMO/view?usp=sharing](https://drive.google.com/file/d/1MVPtCJJA0B-_Vr3qDUqlXAFPvVHb8XT0/view?usp=sharing))
 
 
 

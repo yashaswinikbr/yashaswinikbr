@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All about me is at [My Website](https://yashaswinikbr.github.io/)
 
-- 💬 Ask me about ``` var topics = ["Java","System Design" , "OOPS", "Competitive Programming", "MERN", "React", "SQL", "MongoDB", "NodeJS", "C++"] ```
+- 💬 Ask me about ``` var topics = ["Java", "Python", "System Design" , "OOPS", "Competitive Programming", "MERN", "React", "SQL", "MongoDB", "NodeJS", "C++"] ```
 
 - 🌱 I’m currently learning ``` C# ```
 
